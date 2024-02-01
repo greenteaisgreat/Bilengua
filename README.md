@@ -193,7 +193,7 @@ You need to run `npm install` in the frontend and both Lambda function directori
 ### 2. Docker compose setup
 
 - **Build and Run Docker Images**
-  Before running services for the first time, bnuild the Docker images. Navigate to the home directory and then paste:
+  Before running services for the first time, build the Docker images. Navigate to the home directory and then paste:
   ```bash
   docker-compose up --build
 
